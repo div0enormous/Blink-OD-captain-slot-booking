@@ -1,5 +1,4 @@
-![Setup Header](https://storage.googleapis.com/gemini-prod/images/68b8e0b6-4ac4-426c-941f-8ab0499e9005.png)
-![Setup](https://storage.googleapis.com/gemini-prod/images/68b8e0b6-4ac4-426c-941f-8ab0499e9005.png)
+
 
 
 ⚠️ Important Disclaimer
